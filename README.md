@@ -1,2 +1,5 @@
-# VenkataRamanaMulagura_8897263
-SENG8040-23S-Sec1-Software Testing Methodologies - Lab3
+Name : Venkata Ramana Mulagura
+
+Project Title : Lab 3
+
+Student ID: 8897263
